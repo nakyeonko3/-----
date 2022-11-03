@@ -45,6 +45,8 @@ function init(num) {
 
 init(num);
 
+console.log('hello my friend');
+
 /* 
 3Fs
 
