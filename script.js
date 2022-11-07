@@ -45,14 +45,12 @@ function init(num) {
 
 init(num);
 
-console.log('hello my friend');
-
 /* 
 3Fs
 
 FACT
 1) web storm 사이트를 보고 메서드 추출(extract methord), 변수 네이밍 리펙토링을 함ㅎ
-2) console.log를 이용해서 버그를 없엠
+2) 
 3) chageDivCountInnerHTML함수는 자기 자신의 실행 횟수를 웹화면에 보여주는 기능을 구현하는데 2시간 이상 시간을 씀
 
 
